@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navyaakabra
 - 👀 I’m interested in exploring new things.
-- 🌱 I’m currently learning c.
+- 🌱 Aspiring Data Analyst.
 - 💞️ I’m new on github.
 - 📫 You can reach me via my email - kabranavyaa@gmail.com
 
